@@ -8,4 +8,5 @@ dependencies = [
     "ipykernel>=7.1.0",
     "kagglehub[pandas-datasets]>=0.3.13",
     "pandas>=2.3.3",
+    "seaborn>=0.13.2",
 ]
